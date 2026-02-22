@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Saurabh Shivam</h1>
 <h3 align="center">MCA Student @ MIT Manipal 🎓 | MERN Stack Developer ⚡ | Problem-Solving & DSA 📘 | Exploring Next.js, TypeScript & Cloud ☁️</h3>
-###
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/saurabh-shivam-1b50931a5/" target="_blank">
